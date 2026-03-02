@@ -33,7 +33,6 @@ print "           A World Designed By Technology Is A World Designed To Be Broke
 print "                                  Written By Nycto                                   "
 print "                                Nycto - Dork - Scanner                               "
 print "====================================================================================\n"
-print G
 
 if sys.platform == 'linux' or sys.platform == 'linux2':
   subprocess.call("clear", shell=True)
